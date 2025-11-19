@@ -1,5 +1,6 @@
 # Solution:
 #' NEED TO ADD DOCUMENTATION
+library(tidyverse)
 estimate_arrival_rates <- function(data) {
   
   # compute the average number of trips per hour between each pair
